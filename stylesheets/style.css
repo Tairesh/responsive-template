@@ -161,6 +161,10 @@ a:active{
 	border-radius: 0;
 }
 
+.date {
+	float: right;
+}
+
 
 /* Media queries */ 
 @media screen and (min-width:900px)
